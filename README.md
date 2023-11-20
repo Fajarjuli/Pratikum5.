@@ -53,4 +53,5 @@ for mahasiswa in data_mahasiswa:
 print("\nDaftar Nilai Mahasiswa:")
 print(tabel)
 
+![gambar](ss1.png)
 
